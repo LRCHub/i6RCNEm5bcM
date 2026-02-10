@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Around The World",
+  "base_artist": "Red Hot Chili Peppers",
+  "createdAt": "2026-02-10T11:48:07.623637Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Around The World",
+      "artist": "Lisa Germano",
+      "has_synced": true,
+      "path": "select/01_Around_The_World_Lisa_Germano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "All Around The World",
+      "artist": "Mura Masa feat. Desiigner",
+      "has_synced": true,
+      "path": "select/02_All_Around_The_World_Mura_Masa_feat._Desiigner.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "All Around The World (feat. Desiigner)",
+      "artist": "Mura Masa",
+      "has_synced": true,
+      "path": "select/03_All_Around_The_World_(feat._Desiigner)_Mura_Masa.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "All Around the World",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_All_Around_the_World_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "All Around The World - Reprise",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_All_Around_The_World_-_Reprise_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Around the World In Eighty Days",
+      "artist": "Stray",
+      "has_synced": false,
+      "path": "select/06_Around_the_World_In_Eighty_Days_Stray.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tryin' To Throw Your Arms Around The World",
+      "artist": "U2",
+      "has_synced": true,
+      "path": "select/07_Tryin'_To_Throw_Your_Arms_Around_The_World_U2.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Around The World",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/08_Around_The_World_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Around the World (Dave Sears Club Mix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/09_Around_the_World_(Dave_Sears_Club_Mix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Around the World (Soundsurfers Radio Edit)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/10_Around_the_World_(Soundsurfers_Radio_Edit)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Around the World (Ruegsegger#Wittwer Remix)",
+      "artist": "Aqua",
+      "has_synced": false,
+      "path": "select/11_Around_the_World_(Ruegsegger_Wittwer_Remix)_Aqua.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Around the World (Sound Surfers Club Mix)",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/12_Around_the_World_(Sound_Surfers_Club_Mix)_Aqua.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "All Around the World (Mustique Demo)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/13_All_Around_the_World_(Mustique_Demo)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "All Around The World",
+      "artist": "4 Strings",
+      "has_synced": true,
+      "path": "select/14_All_Around_The_World_4_Strings.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Around the World (RNT mix)",
+      "artist": "ATC",
+      "has_synced": true,
+      "path": "select/15_Around_the_World_(RNT_mix)_ATC.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Around The World (La La La La La) [In the Style of \"ATC\"]",
+      "artist": "ATC",
+      "has_synced": true,
+      "path": "select/16_Around_The_World_(La_La_La_La_La)_[In_the_Style_of__ATC_]_ATC.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Around The World",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": false,
+      "path": "select/pl_01_Around_The_World_Red_Hot_Chili_Peppers.txt"
+    }
+  ]
+}
